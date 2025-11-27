@@ -1,0 +1,18 @@
+{
+    "name": "Hell Hot 20 \u2013 odkryj legaln\u0105 gr\u0119 w Polsce | Hot 20 Login",
+    "short_name": "Hell Hot",
+    "display": "standalone",
+    "description": "Hell Hot 20 \u2013 poznaj legaln\u0105 gr\u0119 online i zacznij gra\u0107 ju\u017c teraz | Hot 20 Slot zapewnia emocje, dynamiczn\u0105 akcj\u0119 i bezpieczny start.",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

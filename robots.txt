@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hellhot20.com/sitemap.xml
